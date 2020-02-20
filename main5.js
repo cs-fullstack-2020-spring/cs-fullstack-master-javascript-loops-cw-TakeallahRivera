@@ -75,7 +75,8 @@ Start with the following array:
 `let high_scores = [2112, 1024, 9000, 9001, 7200, 2600, 10000]`
 
 - Use a for loop to print each score
-- If the score is greater than 9000 print the score and the text `OVER 9000!`
+- If the score is greater than 9000 print the score 
+and the text `OVER 9000!`
 Expected Output:
 ```
 HIGH SCORES
@@ -91,6 +92,10 @@ HIGH SCORES
 */
 
 //Exercise 4 SOLUTION 
+
+/*let high_scores = [`2112, 1024, 9000, 9001, 7200, 2600, 10000]`
+
+*/
 
 /*### Exercise 5:
 - Prompt the user to enter a number 
